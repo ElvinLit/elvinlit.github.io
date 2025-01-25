@@ -11,7 +11,8 @@ I am a third-year undergraduate student studying Mathematics - Computer Science 
 
 Selected Experience
 ======
-## Professional
+## Professional  
+- June 2025 - September 2025
 ## Research
 ## Teaching
 ## Projects
