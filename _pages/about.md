@@ -32,4 +32,4 @@ I will be joining **Amazon** as a **Software Development Engineer (SDE) Intern**
 
 ## Projects
 - **Bayesian Optimizer**
-  - Developing a Python library that implements various Bayesian Optimization techniques. Contains GPU support and allows users to design a (analytical or non-analytical) objective function to minimize/maximize using probabilistic techniques. 
+  - Developing a Python library that implements various Bayesian Optimization techniques. Contains GPU support and allows users to design an (analytical or non-analytical) objective function to minimize/maximize using probabilistic techniques. 
