@@ -23,6 +23,11 @@ I will be joining **Amazon** as a **Software Development Engineer (SDE) Intern**
 
 - *September 2023 - June 2024*  
 **Advisor: Dr. Tom Corringham**
-  - Applied statistical natural language processing techniques and fine-tuned large language models on climate corpora, creating classification models for regional analysis of prevalent climate issues. 
-## Teaching
+  - Applied statistical natural language processing techniques and fine-tuned large language models on climate corpora, creating classification models for regional analysis of prevalent climate issues and the United Nation's 17 SDGs.
+
+## Teaching  
+- *April 2023 - June 2023*  
+**CS106A (Stanford University)**  
+  - Led weekly sections for Stanford University's CS106A (Programming Methodologies), hosting a cohort of 15 students.  
+
 ## Projects
