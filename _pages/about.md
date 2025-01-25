@@ -13,6 +13,7 @@ Selected Experience
 ======
 ## Professional  
 - June 2025 - September 2025
+I will be joining **Amazon** as a **Software Development Engineer (SDE) Intern** for Summer 2025.
 ## Research
 ## Teaching
 ## Projects
