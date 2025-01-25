@@ -12,8 +12,11 @@ I am a third-year undergraduate student studying Mathematics - Computer Science 
 Selected Experience
 ======
 ## Professional  
-- June 2025 - September 2025
+- *June 2025 - September 2025*  
 I will be joining **Amazon** as a **Software Development Engineer (SDE) Intern** for Summer 2025.
-## Research
+## Research  
+- *October 2023 - Present*  
+**Advisor: Dr. Onat Gungor**  
+  - **First author** in an **AAAI-AICS'25** paper proposing a novel method of leveraging Masked Autoencoders and probabilistic vector-to-matrix mappings for self-supervised anomaly detecion in network intrusion detection systems.
 ## Teaching
 ## Projects
