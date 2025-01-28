@@ -11,4 +11,4 @@ redirect_from:
 
 Education
 ======
-* B.S. Mathematics - Computer Science (Expected 2026)
+* B.S. Mathematics - Computer Science, University of California - San Diego (Expected 2026)
