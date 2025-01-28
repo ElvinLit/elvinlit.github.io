@@ -19,7 +19,7 @@ I will be joining **Amazon** as a **Software Development Engineer (SDE) Intern**
 - *October 2023 - Present*  
 **Advisor: Dr. Onat Gungor**  
   - **First author** in an **AAAI-AICS'25** paper proposing a novel method of leveraging Masked Autoencoders and probabilistic vector-to-matrix mappings for self-supervised anomaly detecion in network intrusion detection systems.
-  - **Second author** in an **IEEE-CSR'25** publication on evaluating the potential effects of applying adversarial attacks to deep learning models in network intrusion detection.  
+  - **Second author** in an **IEEE-CSR'24** publication on evaluating the potential effects of applying adversarial attacks to deep learning models in network intrusion detection.  
 
 - *September 2023 - June 2024*  
 **Advisor: Dr. Tom Corringham**
