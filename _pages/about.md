@@ -16,14 +16,14 @@ Selected Experience
 I will be joining **Amazon** as a **Software Development Engineer (SDE) Intern** for Summer 2025.  
 
 ## Research  
-- *October 2023 - Present*  
+- Systems Energy and Efficiency Lab at UCSD (*October 2023 - Present*) 
 **Advisor: Dr. Onat Gungor**  
   - **First author** in an **AAAI'25 AICS** paper proposing a novel method of leveraging Masked Autoencoders and probabilistic vector-to-matrix mappings for self-supervised anomaly detecion in network intrusion detection systems.
   - **Second author** in an **IEEE-CSR'24** publication on evaluating the potential effects of applying adversarial attacks to deep learning models in network intrusion detection.  
 
-- *September 2023 - June 2024*  
+- Scripps Institution of Oceanography (*September 2023 - June 2024*)  
 **Advisor: Dr. Tom Corringham**
-  - Applied statistical natural language processing techniques and fine-tuned large language models on climate corpora, creating classification models for regional analysis of prevalent climate issues and the United Nation's 17 SDGs.
+  - Applied statistical natural language processing techniques and fine-tuned large language models on climate corpora, creating document classification models for regional analysis of prevalent climate issues and the United Nation's 17 SDGs.
 
 ## Teaching  
 - *April 2023 - June 2023*  
