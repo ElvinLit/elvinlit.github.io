@@ -30,6 +30,6 @@ I will be joining **Amazon** as a **Software Development Engineer (SDE) Intern**
 **CS106A (Stanford University)**  
   - Led weekly sections for Stanford University's CS106A (Programming Methodologies), hosting a cohort of 15 students.  
 
-## Projects
+# Projects
 - **Bayesian Optimizer**
   - Developing a Python library that implements various Bayesian Optimization techniques. Contains GPU support and allows users to design an (analytical or non-analytical) objective function to minimize/maximize using probabilistic techniques. 
