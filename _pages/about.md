@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year undergraduate student studying Mathematics - Computer Science at UC San Diego. I enjoy playing around with various mathematical tools, and my main interests are within Self-Supervised Machine Learning and Continuous Optimization. 
+I am a third-year undergraduate student studying Mathematics - Computer Science at UC San Diego. I enjoy playing around with various mathematical tools, and my main research interests are within Self-Supervised Machine Learning and Continuous Optimization. 
 
 Selected Experience
 ======
