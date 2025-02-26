@@ -12,7 +12,7 @@ I am a third-year undergraduate student studying Mathematics - Computer Science 
 Selected Experience
 ======
 ## Professional  
-- *June 2025 - September 2025*  
+- Amazon (*June 2025 - September 2025*)  
 I will be joining **Amazon** as a **Software Development Engineer (SDE) Intern** for Summer 2025.  
 
 ## Research  
@@ -26,8 +26,7 @@ I will be joining **Amazon** as a **Software Development Engineer (SDE) Intern**
   - Applied statistical natural language processing techniques and fine-tuned large language models on climate corpora, creating document classification models for regional analysis of prevalent climate issues and the United Nation's 17 SDGs.
 
 ## Teaching  
-- *April 2023 - June 2023*  
-**CS106A (Stanford University)**  
+- CS106A @ Stanford University (*April 2023 - June 2023*)  
   - Led weekly sections for Stanford University's CS106A (Programming Methodologies), hosting a cohort of 15 students.  
 
 # Projects
