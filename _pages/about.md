@@ -27,7 +27,7 @@ I will be joining **Amazon** as a **Software Development Engineer (SDE) Intern**
 
 ## Teaching  
 - CS106A @ Stanford University (*April 2023 - June 2023*)  
-  - Led weekly sections for Stanford University's CS106A (Programming Methodologies), hosting a cohort of 15 students.  
+  - Volunteered at Code in Place - led weekly sections for Stanford's CS106A (Programming Methodologies), hosting a cohort of 15 students.  
 
 # Projects
 - **Bayesian Optimizer**
