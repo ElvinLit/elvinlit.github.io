@@ -18,8 +18,10 @@ I will be joining **Amazon** as a **Software Development Engineer (SDE) Intern**
 ## Research  
 - Systems Energy and Efficiency Lab at UCSD (*October 2023 - Present*)  
 **Advisor: Dr. Onat Gungor**  
-  - **First author** in an **AAAI'25 AICS** paper proposing a novel method of leveraging Masked Autoencoders and probabilistic vector-to-matrix mappings for self-supervised anomaly detecion in network intrusion detection systems.
-  - **Second author** in an **IEEE-CSR'24** publication on evaluating the potential effects of applying adversarial attacks to deep learning models in network intrusion detection.  
+  - **First author** in an **AAAI'25 AICS** research paper proposing a novel method of leveraging Masked Autoencoders and probabilistic vector-to-matrix mappings for self-supervised anomaly detecion in network intrusion detection systems.  
+  - **Co author** in an **IEEE-CSR'25** research paper presenting a novel selection mechanism for defending against adversarial attacks in the network intrusion domain.  
+  - **Second author** in an **IEEE-CSR'24** publication on evaluating the potential effects of applying adversarial attacks to deep learning models in network intrusion detection.
+
 
 - Scripps Institution of Oceanography (*September 2023 - June 2024*)  
 **Advisor: Dr. Tom Corringham**
