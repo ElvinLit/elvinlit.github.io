@@ -24,7 +24,7 @@ I am a rising senior studying Mathematics–Computer Science at UC San Diego. I 
 <h3>Professional</h3>
 </div>
 
-<div class="experience-card" data-aos="zoom-in">
+<div class="experience-card" data-aos="zoom-in" style="--bg: url('/images/amazon.png');">
   <p class="experience-title">Amazon (June 2025 – September 2025)</p>
   <p class="experience-subtitle">Software Development Engineering Intern</p>
   <ul>
