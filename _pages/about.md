@@ -49,7 +49,7 @@ I am a rising senior studying Mathematics–Computer Science at UC San Diego. I 
   </ul>
 </div>
 
-<div class="experience-card" data-aos="zoom-in">
+<div class="experience-card" data-aos="zoom-in" style="--bg: url('/images/scripps.png');">
   <p class="experience-title">Scripps Institution of Oceanography (Sept 2023 – June 2024)</p>
   <p class="experience-subtitle">Natural Language Processing Research Intern</p>
   <ul>
