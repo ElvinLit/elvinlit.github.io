@@ -11,17 +11,6 @@ redirect_from:
 I am a third-year undergraduate student studying Mathematics–Computer Science at UC San Diego. I enjoy exploring various mathematical tools, and my primary research interests lie in Statistics and Machine Learning - whether it be in research, engineering, or infrastructure.
 </div>
 
-<div style="text-align:center; padding-top:1rem;" data-aos="fade-in">
-  <span style="font-size: 2rem; animation: bounce 2s infinite;">⬇️</span>
-</div>
-
-<style>
-@keyframes bounce {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(8px); }
-}
-</style>
-
 <div data-aos="fade-up">
 <h2>Selected Experience</h2>
 </div>
@@ -86,6 +75,3 @@ I am a third-year undergraduate student studying Mathematics–Computer Science 
   </li>
 </ul>
 </div>
-
-<!-- Extra space to force scroll -->
-<div style="height: 100vh;"></div>
