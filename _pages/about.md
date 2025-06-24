@@ -62,7 +62,7 @@ I am a rising senior studying Mathematics–Computer Science at UC San Diego. I 
 <h3>Activities</h3>
 </div>
 
-<div class="experience-card" data-aos="zoom-in" style="--bg: url('/images/stanford.png');">
+<div class="experience-card" data-aos="zoom-in" style="--bg: url('/images/stanford-logo.png');">
   <p class="experience-title">Code in Place @ Stanford University (April 2023 – June 2023)</p>
   <p class="experience-subtitle">Teaching Assistant</p>
   <ul>
