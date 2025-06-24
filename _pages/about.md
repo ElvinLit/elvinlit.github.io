@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year undergraduate student studying Mathematics–Computer Science at UC San Diego. I enjoy exploring various mathematical tools, and my primary research interests lie in Machine Learning—particularly in research, engineering, or infrastructure.  
+I am a third-year undergraduate student studying Mathematics–Computer Science at UC San Diego. I enjoy exploring various mathematical tools, and my primary research interests lie in Statistics and Machine Learning - whether it be in research, engineering, or infrastructure.  
 
 Selected Experience
 ======
