@@ -12,7 +12,7 @@ I am a third-year undergraduate student studying Mathematics–Computer Science 
 Selected Experience
 ======
 ## Professional  
-- **Amazon** (June 2025 - September 2025)
+- **Amazon** (June 2025 - September 2025)  
   *Software Development Engineering Intern*
   - Building software under the Alexa+ team, engineering infrastructure to integrate ML pipelines and new generative AI frameworks into existing Alexa devices.
   - Developing an internal time series modeling service leveraging statistical and deep learning methods to forecast API TPS and diagnose traffic throttling, automating resource scaling to reduce manual developer time efforts by 80%.  
