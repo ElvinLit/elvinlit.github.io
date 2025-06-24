@@ -45,13 +45,20 @@ I am a rising senior studying Mathematics–Computer Science at UC San Diego. I 
   <p class="experience-title"><strong>Systems Energy and Efficiency Lab at UCSD</strong> (Oct 2023 – Present)</p>
   <p class="experience-subtitle"><em>Machine Learning Research Intern</em></p>
   <ul>
-    <li><strong>First author</strong> in an <strong>IEEE-IoTJ'25</strong> journal publication (under review) proposing a continual learning framework for real-world data streaming.</li>
-    <li><strong>First author</strong> in an <strong>AAAI'25 AICS</strong> research paper on masked autoencoders and probabilistic mappings for anomaly detection.</li>
-    <li><strong>Co-author</strong> in an <strong>IEEE-SafeThings'25</strong> paper on adversarial defense selection in network intrusion.</li>
-    <li><strong>Second author</strong> in an <strong>IEEE-CSR'24</strong> publication evaluating adversarial attack impacts on intrusion detection models.</li>
+    <li><strong>First author</strong> in an 
+      <strong>IEEE-IoTJ'25</strong> 
+      journal publication (under review) proposing a continual learning framework for real-world data streaming.</li>
+    <li><strong>First author</strong> in an 
+      <strong><a href="https://arxiv.org/abs/2502.07119" target="_blank" rel="noopener noreferrer">AAAI'25 AICS</a></strong> 
+      research paper on masked autoencoders and probabilistic mappings for anomaly detection.</li>
+    <li><strong>Co-author</strong> in an 
+      <strong><a href="https://arxiv.org/abs/2504.13301" target="_blank" rel="noopener noreferrer">IEEE-SafeThings'25</a></strong> 
+      paper on adversarial defense selection in network intrusion.</li>
+    <li><strong>Second author</strong> in an 
+      <strong><a href="https://ieeexplore.ieee.org/document/10679443" target="_blank" rel="noopener noreferrer">IEEE-CSR'24</a></strong> 
+      publication evaluating adversarial attack impacts on intrusion detection models.</li>
   </ul>
 </div>
-
 <div class="experience-card" data-aos="zoom-in" style="--bg: url('/images/scripps.png');">
   <p class="experience-title"><strong>Scripps Institution of Oceanography</strong> (Sept 2023 – June 2024)</p>
   <p class="experience-subtitle"><em>Natural Language Processing Research Intern</em></p>
