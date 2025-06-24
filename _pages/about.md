@@ -62,13 +62,14 @@ I am a rising senior studying Mathematics–Computer Science at UC San Diego. I 
 <h3>Activities</h3>
 </div>
 
-<div class="experience-card" data-aos="zoom-in">
+<div class="experience-card" data-aos="zoom-in" style="--bg: url('../images/stanford.png');">
   <p class="experience-title">Code in Place @ Stanford University (April 2023 – June 2023)</p>
   <p class="experience-subtitle">Teaching Assistant</p>
   <ul>
     <li>Volunteered to lead weekly sections for Stanford's CS106A, hosting a cohort of 15 students in Python programming fundamentals.</li>
   </ul>
 </div>
+
 
 <div class="experience-card" data-aos="zoom-in">
   <p class="experience-title">Triton NeuroTech</p>
