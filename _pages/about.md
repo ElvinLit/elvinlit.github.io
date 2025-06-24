@@ -28,8 +28,8 @@ I am a rising senior studying Mathematics–Computer Science at UC San Diego. I 
   <p class="experience-title"><strong>Amazon</strong> (June 2025 – September 2025)</p>
   <p class="experience-subtitle"><em>Software Development Engineering Intern</em></p>
   <ul>
-    <li>Building software under the Alexa+ team, engineering infrastructure to integrate ML pipelines and new generative AI frameworks into existing Alexa devices.</li>
-    <li>Developing an internal time series modeling service leveraging statistical and deep learning methods to forecast API TPS and diagnose traffic throttling, automating resource scaling to reduce manual developer time efforts by 80%.</li>
+    <li>Building software under the <strong>Alexa+</strong> team, engineering infrastructure to integrate <strong>ML pipelines</strong> and new <strong>generative AI</strong> frameworks into existing Alexa devices.</li>
+    <li>Developing an internal <strong>time series modeling service</strong> leveraging statistical and deep learning methods to forecast API TPS and diagnose traffic throttling, automating resource scaling to <strong>reduce manual developer time efforts by 80%</strong>.</li>
   </ul>
 </div>
 
@@ -53,7 +53,7 @@ I am a rising senior studying Mathematics–Computer Science at UC San Diego. I 
   <p class="experience-title"><strong>Scripps Institution of Oceanography</strong> (Sept 2023 – June 2024)</p>
   <p class="experience-subtitle"><em>Natural Language Processing Research Intern</em></p>
   <ul>
-    <li>Applied statistical NLP and fine-tuned large language models on climate corpora to build document classifiers for regional SDG trends.</li>
+    <li>Applied statistical natural language processing and fine-tuned large language models on climate corpora to build document classifiers for regional climate trends.</li>
   </ul>
 </div>
 
