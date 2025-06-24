@@ -43,6 +43,8 @@
   margin-bottom: 1.5rem;
   box-shadow: 0 4px 12px rgba(0,0,0,0.06);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
+  position: relative;
+  overflow: hidden;
 }
 
 .experience-card:hover {
@@ -50,16 +52,27 @@
   box-shadow: 0 6px 16px rgba(0,0,0,0.12);
 }
 
-.experience-title {
-  margin-top: 0;
-  margin-bottom: 0.3rem;
-  font-size: 1.1rem;
-  font-weight: bold;
+.experience-card::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 120%;
+  height: 120%;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0.05; /* faint watermark */
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+  z-index: 0;
 }
 
-.experience-subtitle {
-  font-style: italic;
-  margin-bottom: 0.8rem;
+.experience-card .experience-title,
+.experience-card .experience-subtitle,
+.experience-card ul {
+  position: relative;
+  z-index: 1; /* ensures content stays above background */
 }
 </style>
 
