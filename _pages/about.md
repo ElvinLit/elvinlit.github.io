@@ -15,7 +15,16 @@ Selected Experience
 - **Amazon** (June 2025 - September 2025)  
   *Software Development Engineering Intern*
   - Building software under the Alexa+ team, engineering infrastructure to integrate ML pipelines and new generative AI frameworks into existing Alexa devices.
-  - Developing an internal time series modeling service leveraging statistical and deep learning methods to forecast API TPS and diagnose traffic throttling, automating resource scaling to reduce manual developer time efforts by 80%.  
+  - Developing an internal time series modeling service leveraging statistical and deep learning methods to forecast API TPS and diagnose traffic throttling, automating resource scaling to reduce manual developer time efforts by 80%.
+
+<h2 data-aos="fade-up">Selected Experience</h2>
+
+<div data-aos="zoom-in">
+  <p><strong>Amazon</strong><br>
+  Software Development Engineer Intern<br>
+  June 2025 – Sept 2025</p>
+</div>
+
 
 ## Research  
 - **Systems Energy and Efficiency Lab at UCSD** (October 2023 - Present)  
