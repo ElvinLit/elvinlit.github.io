@@ -8,7 +8,10 @@ redirect_from:
 ---
 
 <!-- Typing animated intro -->
-<h1 id="typed-intro" data-aos="fade-in" style="margin-bottom: 1rem;"></h1>
+<h1 data-aos="fade-in" style="margin-bottom: 1rem;">
+  <span style="font-weight: bold;">H</span><span id="typed-intro" style="min-height: 2.5rem;"></span>
+</h1>
+<!-- <h1 id="typed-intro" data-aos="fade-in" style="margin-bottom: 1rem;"></h1>-->
 
 <div data-aos="fade-up">
 I am a rising senior studying Mathematics–Computer Science at UC San Diego. I enjoy exploring various mathematical tools, and my primary research interests lie in Applying Statistics and Machine Learning — whether it be in research, engineering, or infrastructure.
