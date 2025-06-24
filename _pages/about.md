@@ -25,8 +25,8 @@ I am a rising senior studying Mathematics–Computer Science at UC San Diego. I 
 </div>
 
 <div class="experience-card" data-aos="zoom-in" style="--bg: url('/images/amazon.png');">
-  <p class="experience-title">Amazon (June 2025 – September 2025)</p>
-  <p class="experience-subtitle">Software Development Engineering Intern</p>
+  <p class="experience-title"><strong>Amazon</strong> (June 2025 – September 2025)</p>
+  <p class="experience-subtitle"><em>Software Development Engineering Intern</em></p>
   <ul>
     <li>Building software under the Alexa+ team, engineering infrastructure to integrate ML pipelines and new generative AI frameworks into existing Alexa devices.</li>
     <li>Developing an internal time series modeling service leveraging statistical and deep learning methods to forecast API TPS and diagnose traffic throttling, automating resource scaling to reduce manual developer time efforts by 80%.</li>
@@ -39,8 +39,8 @@ I am a rising senior studying Mathematics–Computer Science at UC San Diego. I 
 </div>
 
 <div class="experience-card" data-aos="zoom-in">
-  <p class="experience-title">Systems Energy and Efficiency Lab at UCSD (Oct 2023 – Present)</p>
-  <p class="experience-subtitle">Machine Learning Research Intern</p>
+  <p class="experience-title"><strong>Systems Energy and Efficiency Lab at UCSD</strong> (Oct 2023 – Present)</p>
+  <p class="experience-subtitle"><em>Machine Learning Research Intern</em></p>
   <ul>
     <li><strong>First author</strong> in an <strong>IEEE-IoTJ'25</strong> journal publication (under review) proposing a continual learning framework for real-world data streaming.</li>
     <li><strong>First author</strong> in an <strong>AAAI'25 AICS</strong> research paper on masked autoencoders and probabilistic mappings for anomaly detection.</li>
@@ -50,8 +50,8 @@ I am a rising senior studying Mathematics–Computer Science at UC San Diego. I 
 </div>
 
 <div class="experience-card" data-aos="zoom-in" style="--bg: url('/images/scripps.png');">
-  <p class="experience-title">Scripps Institution of Oceanography (Sept 2023 – June 2024)</p>
-  <p class="experience-subtitle">Natural Language Processing Research Intern</p>
+  <p class="experience-title"><strong>Scripps Institution of Oceanography</strong> (Sept 2023 – June 2024)</p>
+  <p class="experience-subtitle"><em>Natural Language Processing Research Intern</em></p>
   <ul>
     <li>Applied statistical NLP and fine-tuned large language models on climate corpora to build document classifiers for regional SDG trends.</li>
   </ul>
@@ -63,8 +63,8 @@ I am a rising senior studying Mathematics–Computer Science at UC San Diego. I 
 </div>
 
 <div class="experience-card" data-aos="zoom-in" style="--bg: url('/images/stanford-logo.png');">
-  <p class="experience-title">Code in Place @ Stanford University (April 2023 – June 2023)</p>
-  <p class="experience-subtitle">Teaching Assistant</p>
+  <p class="experience-title"><strong>Code in Place @ Stanford University</strong> (April 2023 – June 2023)</p>
+  <p class="experience-subtitle"><em>Teaching Assistant</em></p>
   <ul>
     <li>Volunteered to lead weekly sections for Stanford's CS106A, hosting a cohort of 15 students to learn Python programming fundamentals.</li>
   </ul>
@@ -72,8 +72,8 @@ I am a rising senior studying Mathematics–Computer Science at UC San Diego. I 
 
 
 <div class="experience-card" data-aos="zoom-in">
-  <p class="experience-title">Triton NeuroTech</p>
-  <p class="experience-subtitle">Machine Learning Engineer</p>
+  <p class="experience-title"><strong>Triton NeuroTech</strong></p>
+  <p class="experience-subtitle"><em>Machine Learning Engineer</em></p>
   <ul>
     <li>Developed and validated an LSTM model for the Prosthetics team, achieving over 90% accuracy in classifying EMG time-series signals into finger movement commands for a prosthetic arm.</li>
   </ul>
