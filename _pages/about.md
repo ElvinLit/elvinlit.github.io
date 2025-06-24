@@ -19,7 +19,7 @@ Selected Experience
 
 ## Research  
 - **Systems Energy and Efficiency Lab at UCSD** (October 2023 - Present)  
-  *Machine Learning Research Intern*
+  *Machine Learning Research Intern*  
   Advisor: Dr. Onat Gungor
   - **First author** in an **IEEE-IoTJ'25** journal publication (under review) proposing a new continual learning framework for machine learning models, fostering continuous online learning capabilities in real-world data streaming scenarios.  
   - **First author** in an **AAAI'25 AICS** research paper proposing a novel method of leveraging Masked Autoencoders and probabilistic vector-to-matrix mappings for self-supervised anomaly detecion in network intrusion detection systems.  
@@ -28,7 +28,7 @@ Selected Experience
 
 
 - Scripps Institution of Oceanography (*September 2023 - June 2024*)
-  *Natural Language Processing Research Intern*
+  *Natural Language Processing Research Intern*  
   Advisor: Dr. Tom Corringham  
   - Applied statistical natural language processing techniques and fine-tuned large language models on climate corpora, creating document classification models for regional analysis of prevalent climate issues and the United Nation's 17 SDGs.
 
