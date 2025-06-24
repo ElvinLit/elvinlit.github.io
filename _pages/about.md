@@ -64,12 +64,12 @@ I am a rising senior studying Mathematics–Computer Science at UC San Diego. I 
 </div>
 
 <div data-aos="fade-up">
-<h3>Leadership</h3>
+<h3>Activities</h3>
 </div>
 
 <div data-aos="zoom-in">
 <ul>
-  <li><strong>Code in Place @ Stanford University</strong> (April 2023 - June 2023)<br>
+  <li><strong>Code in Place @ Stanford University</strong><br>
     <em>Teaching Assistant</em><br>
     <ul>
       <li>Volunteered to lead weekly sections for Stanford's CS106A, hosting a cohort of 15 students for programming fundamentals.</li>
@@ -77,3 +77,15 @@ I am a rising senior studying Mathematics–Computer Science at UC San Diego. I 
   </li>
 </ul>
 </div>
+
+<div data-aos="zoom-in">
+<ul>
+  <li><strong>Triton NeuroTech</strong><br>
+    <em>Machine Learning Engineer</em><br>
+    <ul>
+      <li>Developed and validated an LSTM model for the Prosthetics team, achieving over 90% accuracy in classifying electromyography time-series signals into functional finger movements for a prosthetic arm.</li>
+    </ul>
+  </li>
+</ul>
+</div>
+
