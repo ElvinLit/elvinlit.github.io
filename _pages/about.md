@@ -50,10 +50,10 @@ I am a rising senior studying Mathematics–Computer Science at UC San Diego. I 
       journal publication (under review) proposing a continual learning framework for real-world data streaming.</li>
     <li><strong>First author</strong> in an 
       <strong><a href="https://arxiv.org/abs/2502.07119" target="_blank" rel="noopener noreferrer">AAAI'25 AICS</a></strong> 
-      research paper on masked autoencoders and probabilistic mappings for anomaly detection.</li>
+      research paper proposing a novel masked autoencoder architecture and probabilistic mappings for anomaly detection.</li>
     <li><strong>Co-author</strong> in an 
       <strong><a href="https://arxiv.org/abs/2504.13301" target="_blank" rel="noopener noreferrer">IEEE-SafeThings'25</a></strong> 
-      paper on adversarial defense selection in network intrusion.</li>
+      paper on an adversarial defense selection algorithm for network intrusion.</li>
     <li><strong>Second author</strong> in an 
       <strong><a href="https://ieeexplore.ieee.org/document/10679443" target="_blank" rel="noopener noreferrer">IEEE-CSR'24</a></strong> 
       publication evaluating adversarial attack impacts on intrusion detection models.</li>
