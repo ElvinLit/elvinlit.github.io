@@ -66,7 +66,7 @@ I am a rising senior studying Mathematics–Computer Science at UC San Diego. I 
   <p class="experience-title">Code in Place @ Stanford University (April 2023 – June 2023)</p>
   <p class="experience-subtitle">Teaching Assistant</p>
   <ul>
-    <li>Volunteered to lead weekly sections for Stanford's CS106A, hosting a cohort of 15 students in Python programming fundamentals.</li>
+    <li>Volunteered to lead weekly sections for Stanford's CS106A, hosting a cohort of 15 students to learn Python programming fundamentals.</li>
   </ul>
 </div>
 
