@@ -42,7 +42,7 @@ I am a rising senior studying Mathematics–Computer Science at UC San Diego. I 
 </div>
 
 <div class="experience-card" data-aos="zoom-in" style="--bg: url('/images/ucsd.png');">
-  <p class="experience-title"><strong>Systems Energy and Efficiency Lab at UCSD</strong> (Oct 2023 – Present)</p>
+  <p class="experience-title"><strong>Systems Energy and Efficiency Lab @ UCSD</strong> (Oct 2023 – Present)</p>
   <p class="experience-subtitle"><em>Machine Learning Research Intern</em></p>
   <ul>
     <li><strong>First author</strong> in an 
