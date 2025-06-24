@@ -74,7 +74,7 @@ I am a rising senior studying Mathematics–Computer Science at UC San Diego. I 
 </div>
 
 
-<div class="experience-card" data-aos="zoom-in">
+<div class="experience-card" data-aos="zoom-in" style="--bg: url('/images/tnt.png');">
   <p class="experience-title"><strong>Triton NeuroTech</strong></p>
   <p class="experience-subtitle"><em>Machine Learning Engineer</em></p>
   <ul>
