@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "Hey there, I'm Elvin!"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<h1 id="typed-intro" data-aos="fade-in" style="margin-bottom: 1rem;"></h1>
 
 <div data-aos="fade-up">
 I am a third-year undergraduate student studying Mathematics–Computer Science at UC San Diego. I enjoy exploring various mathematical tools, and my primary research interests lie in Statistics and Machine Learning - whether it be in research, engineering, or infrastructure.
