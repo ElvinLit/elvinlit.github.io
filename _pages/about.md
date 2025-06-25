@@ -31,8 +31,8 @@ I am a rising senior studying Mathematics–Computer Science at UC San Diego. I 
   <p class="experience-title"><strong>Amazon</strong> (June 2025 – September 2025)</p>
   <p class="experience-subtitle"><em>Software Development Engineering Intern</em></p>
   <ul>
-    <li>Building software under the <strong>Alexa+</strong> team, engineering infrastructure to integrate <strong>ML pipelines</strong> and new <strong>generative AI</strong> frameworks into existing Alexa devices.</li>
-    <li>Developing an internal <strong>time series modeling service</strong> leveraging <strong>statistical and deep learning methods</strong> to forecast API TPS and diagnose traffic throttling, automating resource scaling to <strong>reduce manual developer time efforts by 80%</strong>.</li>
+    <li>Building software for <strong>Alexa+</strong> under the Alexa Audio team, engineering infrastructure to support integration of <strong>ML pipelines</strong> and new <strong>generative AI</strong> frameworks into existing Alexa devices.</li>
+    <li>Developing an internal <strong>time series modeling service</strong> incorporating <strong>statistical and deep learning methods</strong> to forecast service traffic and diagnose throttling, automating resource scaling to <strong>reduce manual developer time efforts by 80%</strong>.</li>
   </ul>
 </div>
 
