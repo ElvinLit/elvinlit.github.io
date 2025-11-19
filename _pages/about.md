@@ -14,7 +14,7 @@ redirect_from:
 <!-- <h1 id="typed-intro" data-aos="fade-in" style="margin-bottom: 1rem;"></h1>-->
 
 <div data-aos="fade-up">
-I am a rising senior studying Mathematics–Computer Science at UC San Diego. I enjoy exploring various mathematical tools, and my primary research interests lie in applying traditional statistical tools and modern machine learning — whether it be in research, engineering, or infrastructure.
+I am a senior studying Mathematics–Computer Science at UC San Diego. I enjoy developing and learing about progress in machine learning, whether it be research, engineering, or infrastructure. My primary research interests lie in AI safety, specifically on adversarial attacks and defenses for different forms of models.
 </div>
 
 <!-- Section Title -->
@@ -31,8 +31,7 @@ I am a rising senior studying Mathematics–Computer Science at UC San Diego. I 
   <p class="experience-title"><strong>Amazon</strong> (June 2025 – September 2025)</p>
   <p class="experience-subtitle"><em>Software Development Engineering Intern</em></p>
   <ul>
-    <li>Building software for <strong>Alexa+</strong> under the Alexa Audio team, engineering infrastructure to support integration of <strong>ML pipelines</strong> and new <strong>generative AI</strong> frameworks into existing Alexa devices.</li>
-    <li>Developing an internal <strong>time series modeling service</strong> incorporating <strong>statistical and deep learning methods</strong> to forecast service traffic and diagnose throttling, automating resource scaling to <strong>reduce manual developer time efforts by 80%</strong>.</li>
+    <li>Developed a network traffic prediction system and service dependency visualizer to anticipate user traffic during peak events, allowing engineers to scale services seamlessly and reducing a previously manual effort by 80% (20 days to 2).</li>
   </ul>
 </div>
 
@@ -46,13 +45,13 @@ I am a rising senior studying Mathematics–Computer Science at UC San Diego. I 
   <p class="experience-subtitle"><em>Machine Learning Research Intern</em></p>
   <ul>
     <li><strong>First author</strong> in an 
-      <strong>IEEE-IoTJ'25</strong> 
-      journal publication (under review) proposing a continual learning framework for real-world data streaming.</li>
+     <strong><a href="https://arxiv.org/abs/2508.19450" target="_blank" rel="noopener noreferrer">IEEE-IoTJ'25</a></strong>
+      journal publication (under review) proposing a continual learning framework for improving classifier performance in real-world data streaming.</li>
     <li><strong>First author</strong> in an 
       <strong><a href="https://arxiv.org/abs/2502.07119" target="_blank" rel="noopener noreferrer">AAAI'25 AICS</a></strong> 
-      research paper proposing a novel masked autoencoder architecture and probabilistic mappings for anomaly detection.</li>
+      research paper proposing a novel masked autoencoder architecture and probabilistic mappings for anomaly detection in network intrusion scenarios.</li>
     <li><strong>Co-author</strong> in an 
-      <strong><a href="https://arxiv.org/abs/2504.13301" target="_blank" rel="noopener noreferrer">IEEE-SafeThings'25</a></strong> 
+      <strong><a href="https://www.computer.org/csdl/proceedings-article/spw/2025/664300a213/27k6oBkJXbO" target="_blank" rel="noopener noreferrer">IEEE-SafeThings'25</a></strong> 
       paper on an adversarial defense selection algorithm for network intrusion.</li>
     <li><strong>Second author</strong> in an 
       <strong><a href="https://ieeexplore.ieee.org/document/10679443" target="_blank" rel="noopener noreferrer">IEEE-CSR'24</a></strong> 
